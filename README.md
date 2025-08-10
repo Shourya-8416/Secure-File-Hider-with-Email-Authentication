@@ -69,4 +69,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 For any questions or support, please open an issue on the [GitHub repository](https://github.com/Shourya-8416/Secure-File-Hider-with-Email-Authentication).
 
----
+-
